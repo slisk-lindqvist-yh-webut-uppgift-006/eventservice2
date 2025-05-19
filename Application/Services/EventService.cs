@@ -50,6 +50,7 @@ public class EventService(IEventRepository eventRepository) : IEventService
 
         var events = result.Result?.Select(entity => new Event
         {
+            Id = entity.Id,
             Image = entity.Image,
             Title = entity.Title,
             Description = entity.Description,
@@ -68,6 +69,7 @@ public class EventService(IEventRepository eventRepository) : IEventService
         {
             var currentEvent = new Event
             {
+                Id = result.Result.Id,
                 Image = result.Result.Image,
                 Title = result.Result.Title,
                 Description = result.Result.Description,
