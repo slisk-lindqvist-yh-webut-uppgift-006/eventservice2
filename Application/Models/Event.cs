@@ -2,7 +2,7 @@ namespace Application.Models;
 
 public class Event
 {
-    public string Id { get; set; }
+    public string Id { get; set; } = null!;
     public string? Image { get; set; }
     public string? Title { get; set; }
     public DateTime EventDate { get; set; }

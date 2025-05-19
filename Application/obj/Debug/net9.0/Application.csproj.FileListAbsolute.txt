@@ -1,0 +1,16 @@
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/bin/Debug/net9.0/Application.deps.json
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/bin/Debug/net9.0/Application.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/bin/Debug/net9.0/Application.pdb
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/bin/Debug/net9.0/Persistence.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/bin/Debug/net9.0/Persistence.pdb
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.sourcelink.json
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/refint/Application.dll
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/Application.pdb
+/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EventService/Application/obj/Debug/net9.0/ref/Application.dll

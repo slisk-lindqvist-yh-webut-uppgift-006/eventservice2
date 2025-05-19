@@ -8,8 +8,7 @@ using Persistence.Models;
 
 namespace Persistence.Repositories;
 
-public abstract class BaseRepository<TEntity, TKey>(DbContext context) : IBaseRepository<TEntity, TKey>
-    where TEntity : class
+public abstract class BaseRepository<TEntity, TKey>(DbContext context) : IBaseRepository<TEntity, TKey> where TEntity : class
 {
     protected readonly DbContext _context = context;
     protected readonly DbSet<TEntity> _dbSet = context.Set<TEntity>();
